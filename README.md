@@ -1,4 +1,4 @@
-<!-- Hello! 👋 --->
+<!-- Hi there! Welcome to my GitHub Page! 👋 --->
 
 <!---
 <div id="badges" align="center">
