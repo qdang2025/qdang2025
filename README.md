@@ -1,6 +1,5 @@
-<h1>Welcome to My GitHub Page!</h1>
-<h2>Introduction</h2>
-<p>Hello! I'm so glad you found your way to my GitHub page. I'm a proficient programmer and tech enthusiast who loves to share my projects and ideas with the world. On this page, you'll find a collection of my personal projects, along with the source code and documentation for each one.</p>
+<h1>Hey there! Welcome to My GitHub Page!</h1>
+<p>I'm so glad you found your way to my GitHub page. I'm a proficient programmer and tech enthusiast who loves to share my projects and ideas with the world. On this page, you'll find a collection of my personal projects, along with the source code and documentation for each one.</p>
 <p>Whether you're here to learn, be inspired, or just check out what I've been up to, I hope you'll find something that interests you. So go ahead and take a look around!</p>
 
 <h2>Private Repos</h2>
