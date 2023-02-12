@@ -1,9 +1,8 @@
 <h1>Welcome to My GitHub Page!</h1>
 <h2>Introduction</h2>
-<p>Hello! I'm so glad you found your way to my GitHub page. I'm a programmer and all-around tech enthusiast who loves to share my projects and ideas with the world. On this page, you'll find a collection of my personal projects, along with the source code and documentation for each one.</p>
+<p>Hello! I'm so glad you found your way to my GitHub page. I'm a proficient programmer and tech enthusiast who loves to share my projects and ideas with the world. On this page, you'll find a collection of my personal projects, along with the source code and documentation for each one.</p>
 <p>Whether you're here to learn, be inspired, or just check out what I've been up to, I hope you'll find something that interests you. So go ahead and take a look around!</p>
 
-<p>These are just a few examples of the kinds of projects you'll find here. I'm always working on something new, so be sure to check back regularly for updates!</p>
 <h2>Private Repos</h2>
 <p>By the way, you may find that some of the projects are private, as they were made in the context of class projects. Those are required to be hidden to prevent Academic Dishonesty</p>
 
