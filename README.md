@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more on React.js and Machine Learning**
 
-- 📫 Reach me at **qdang@gmail.com or qvdang03@gmail.com**
+- 📫 Reach me at **qvdang03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
