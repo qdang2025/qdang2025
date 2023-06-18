@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
 <h3 align="center">An avid web developer, aspiring computer scientist, and undergraduate student at UMass Amherst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qdang2025" alt="qdang2025" /></a> </p>
-
 - 🌱 I’m currently learning **more on React.js and Machine Learning**
 
 - 📫 How to reach me **qdang@gmail.com or qvdang03@gmail.com**
