@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
 <h3 align="center">An avid web developer and aspiring computer scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qdang2025&label=Profile%20views&color=0e75b6&style=flat" alt="qdang2025" /> </p>
-
 - 🌱 I’m currently learning **more on React.js and Machine Learning**
 
 - 📫 How to reach me **qdang@gmail.com or qvdang03@gmail.com**
