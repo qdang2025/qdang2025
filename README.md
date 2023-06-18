@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">An avid web developer and aspiring computer scientist</h3>
+<h3 align="center">An avid software engineer and aspiring computer scientist</h3>
 
 - 🌱 I’m currently learning **more on React.js and Machine Learning**
 
