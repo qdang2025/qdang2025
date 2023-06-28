@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qdang2025&show_icons=true&locale=en&layout=compact" alt="qdang2025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qdang2025&" alt="qdang2025" /></p>
+
+p/s: haven't found the time to sort the tech, sorry :/
