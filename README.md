@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
 <h3 align="center">An avid web developer, aspiring computer scientist, and undergraduate student at UMass Amherst</h3>
 
-- 🌱 I’m currently learning **more on Distributed Computing, Information Retrieval, and Machine Learning**
+- 🌱 I’m currently learning **more on Information Retrieval and Machine Learning**
 
 - 📫 Reach me at **qvdang03@gmail.com**
 
